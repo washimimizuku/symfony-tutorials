@@ -1,2 +1,4 @@
-# symfony2-codeship-digital-ocean
-Just a test for continuous delivery of an API created in Symfony2
+symfony2-codeship-digital-ocean2
+================================
+
+A Symfony project created on April 20, 2015, 4:51 pm.
