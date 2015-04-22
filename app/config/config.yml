@@ -63,6 +63,10 @@ doctrine:
     orm:
         auto_generate_proxy_classes: "%kernel.debug%"
         auto_mapping: true
+        #entity_managers:
+        #    defaults:
+        #        mappings:
+        #            WashimimizukuAPIBundle: ~
 
 # Swiftmailer Configuration
 swiftmailer:
@@ -71,3 +75,25 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+# FOSRestBundle Configuration
+fos_rest:
+    format_listener:
+        rules:
+            - priorities: [ json, xml, html ]
+            - prefer_extension: false
+    routing_loader:
+        default_format: json
+    view:
+        view_response_listener: 'force'
+        formats:
+            json: true
+            xml: true
+        templating_formats:
+            html: true
+    serializer:
+        serialize_null: true
+
+sensio_framework_extra:
+    view:       { annotations: false }
+    router:     { annotations: true }
