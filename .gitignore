@@ -50,3 +50,7 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+# Docker data and logs
+/docker/database/data
+/docker/logs/nginx/*.log
