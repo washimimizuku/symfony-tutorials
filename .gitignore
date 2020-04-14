@@ -15,5 +15,6 @@
 ###< symfony/phpunit-bridge ###
 
 # Docker data and logs
-/docker/database/data
+/docker/database/data/*
+!/docker/database/data/.gitkeep
 /docker/logs/nginx/*.log
