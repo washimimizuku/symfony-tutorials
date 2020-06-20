@@ -38,3 +38,10 @@ hooks:
         set -x -e
 
         (>&2 symfony-deploy)
+
+relationships:
+    database: "db:postgresql"
+
+runtime:
+    extensions:
+        - pdo_pgsql
