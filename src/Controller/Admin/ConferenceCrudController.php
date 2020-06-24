@@ -22,21 +22,22 @@ class ConferenceCrudController extends AbstractCrudController
         return $crud
             ->setEntityLabelInSingular('Conference')
             ->setEntityLabelInPlural('Conference')
-            ->setSearchFields(['id', 'city', 'year']);
+            ->setSearchFields(['id', 'city', 'year', 'slug']);
     }
 
     public function configureFields(string $pageName): iterable
     {
         $city = TextField::new('city');
         $year = TextField::new('year');
+        $slug = TextField::new('slug');
         $isInternational = Field::new('isInternational');
         $comments = AssociationField::new('comments');
         $id = IntegerField::new('id', 'ID');
 
         if (Crud::PAGE_INDEX === $pageName) {
-            return [$id, $city, $year, $isInternational, $comments];
+            return [$id, $city, $year, $slug, $isInternational, $comments];
         } elseif (Crud::PAGE_DETAIL === $pageName) {
-            return [$id, $city, $year, $isInternational, $comments];
+            return [$id, $city, $year, $slug, $isInternational, $comments];
         } elseif (Crud::PAGE_NEW === $pageName) {
             return [$city, $year, $isInternational, $comments];
         } elseif (Crud::PAGE_EDIT === $pageName) {
