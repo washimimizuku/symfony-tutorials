@@ -9,6 +9,7 @@ framework:
         handler_id: '%env(REDIS_URL)%'
         cookie_secure: auto
         cookie_samesite: lax
+        storage_id: session.storage.mock_file
 
     #esi: true
     #fragments: true
@@ -17,4 +18,4 @@ framework:
 
     ide: vscode
 
-    test: true
+    test: ~
