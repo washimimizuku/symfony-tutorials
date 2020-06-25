@@ -39,7 +39,7 @@ class CommentCrudController extends AbstractCrudController
         $id = IntegerField::new('id', 'ID');
 
         if (Crud::PAGE_INDEX === $pageName) {
-            return [$author, $email, $createdAt];
+            return [$id, $author, $email, $state, $createdAt];
         } elseif (Crud::PAGE_DETAIL === $pageName) {
             return [$id, $author, $text, $email, $state, $createdAt, $photoFilename, $conference];
         } elseif (Crud::PAGE_NEW === $pageName) {
