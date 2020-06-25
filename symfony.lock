@@ -93,6 +93,9 @@
     "pagerfanta/pagerfanta": {
         "version": "v2.3.0"
     },
+    "paragonie/sodium_compat": {
+        "version": "v1.13.0"
+    },
     "php": {
         "version": "7.3"
     },
@@ -219,6 +222,12 @@
             "src/Controller/.gitignore",
             "src/Kernel.php"
         ]
+    },
+    "symfony/http-client": {
+        "version": "v5.1.2"
+    },
+    "symfony/http-client-contracts": {
+        "version": "v2.1.2"
     },
     "symfony/http-foundation": {
         "version": "v5.1.2"
