@@ -24,7 +24,7 @@ class CommentCrudController extends AbstractCrudController
         return $crud
             ->setEntityLabelInSingular('Comment')
             ->setEntityLabelInPlural('Comment')
-            ->setSearchFields(['id', 'author', 'text', 'email', 'photoFilename']);
+            ->setSearchFields(['id', 'author', 'text', 'email', 'photoFilename', 'state']);
     }
 
     public function configureFields(string $pageName): iterable
@@ -32,6 +32,7 @@ class CommentCrudController extends AbstractCrudController
         $author = TextField::new('author');
         $text = TextareaField::new('text');
         $email = EmailField::new('email');
+        $state = EmailField::new('state');
         $createdAt = DateTimeField::new('createdAt');
         $photoFilename = TextField::new('photoFilename');
         $conference = AssociationField::new('conference');
@@ -40,7 +41,7 @@ class CommentCrudController extends AbstractCrudController
         if (Crud::PAGE_INDEX === $pageName) {
             return [$author, $email, $createdAt];
         } elseif (Crud::PAGE_DETAIL === $pageName) {
-            return [$id, $author, $text, $email, $createdAt, $photoFilename, $conference];
+            return [$id, $author, $text, $email, $state, $createdAt, $photoFilename, $conference];
         } elseif (Crud::PAGE_NEW === $pageName) {
             return [$author, $text, $email, $createdAt, $photoFilename, $conference];
         } elseif (Crud::PAGE_EDIT === $pageName) {
