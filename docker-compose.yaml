@@ -1,6 +1,7 @@
 version: '3'
 
 services:
+
   database:
     image: postgres:11-alpine
     environment:
@@ -8,9 +9,15 @@ services:
       POSTGRES_PASSWORD: main
       POSTGRES_DB: main
     ports: [5432]
+
   redis:
     image: redis:5-alpine
     ports: [6379]
+
   rabbitmq:
     image: rabbitmq:3.7-management
     ports: [5672, 15672]
+  
+  mailcatcher:
+    image: schickling/mailcatcher
+    ports: [1025, 1080]
