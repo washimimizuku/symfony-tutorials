@@ -11,7 +11,7 @@ framework:
         cookie_samesite: lax
         storage_id: session.storage.mock_file
 
-    #esi: true
+    esi: true
     #fragments: true
     php_errors:
         log: true
