@@ -6,6 +6,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "easycorp/easyadmin-bundle": "^3.0",
+        "imagine/imagine": "^1.2",
         "paragonie/sodium_compat": "^1.13",
         "predis/predis": "^1.1",
         "sensio/framework-extra-bundle": "^5.5",
