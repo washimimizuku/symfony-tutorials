@@ -5,7 +5,7 @@ namespace App\Tests;
 use PHPUnit\Framework\TestCase;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
-class SpamCheckerTest extends WebTestCase
+class MailerTest extends WebTestCase
 {
     public function testMailerAssertions()
     {
