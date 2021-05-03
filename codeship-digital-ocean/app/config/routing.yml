@@ -1,0 +1,7 @@
+washimimizuku_api:
+    resource: "@WashimimizukuAPIBundle/Resources/config/routing.yml"
+    prefix:   /
+
+users:
+    type:     rest
+    resource: Washimimizuku\Bundle\APIBundle\Controller\UsersController
