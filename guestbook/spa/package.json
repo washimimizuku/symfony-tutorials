@@ -6,7 +6,7 @@
   "dependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
-    "@symfony/webpack-encore": "^0.30.2",
+    "@symfony/webpack-encore": "^0.31.0",
     "babel-preset-preact": "^2.0.0",
     "bootstrap": "^4.5.0",
     "html-webpack-plugin": "^4.3.0",
