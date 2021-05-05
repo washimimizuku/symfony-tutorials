@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.10.5",
-    "@babel/preset-env": "^7.10.4",
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
     "@symfony/webpack-encore": "^0.30.2",
     "babel-preset-preact": "^2.0.0",
     "bootstrap": "^4.5.0",
