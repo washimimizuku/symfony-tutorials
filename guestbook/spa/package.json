@@ -10,7 +10,7 @@
     "babel-preset-preact": "^2.0.0",
     "bootstrap": "^4.6.1",
     "html-webpack-plugin": "^4.5.2",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "preact": "^10.5.15",
     "preact-router": "^3.2.1",
     "sass-loader": "^8.0"
