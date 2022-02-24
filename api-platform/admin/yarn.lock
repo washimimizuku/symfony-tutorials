@@ -2,25 +2,25 @@
 # yarn lockfile v1
 
 
-"@api-platform/admin@^2.7.0":
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-2.7.2.tgz#2e868e73c7652e1a9559f68090e957bec703d85f"
-  integrity sha512-X9rlLkdJjFby3ulY1LEppuYU+FbFmbyEGWk1D5iKdpEKJIZbHlSrRLf+djPD8PrY1ONlJnFj2jDcLmBRYST41w==
+"@api-platform/admin@^2.8.0":
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-2.8.3.tgz#80ef389f18dff8c1e01ad950d802fa2ced72183f"
+  integrity sha512-5z8Y3AeqfqfRMqRBUa1MZTrBWvc8pj1vt/7QO54HHIFODk0ImWyVtgiKLvWuT0WR8K9lgXVD27Pw4m5IkHD/vA==
   dependencies:
-    "@api-platform/api-doc-parser" "^0.12.0"
+    "@api-platform/api-doc-parser" "^0.13.2"
     history "^4.7.0"
     jsonld "^5.2.0"
     lodash.isplainobject "^4.0.6"
     prop-types "^15.6.2"
     react-admin "^3.0.0"
 
-"@api-platform/api-doc-parser@^0.12.0":
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/@api-platform/api-doc-parser/-/api-doc-parser-0.12.0.tgz#13cb91f621673014b46fc5030930bea2680f415a"
-  integrity sha512-rG9wWr8YN9M1djSLf7rrkW8G1iCuI1pxKk1/vf/4SGh3AEWLpku78qKtbw/snKigeL4r5vBzQptFl3jOPX++jg==
+"@api-platform/api-doc-parser@^0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@api-platform/api-doc-parser/-/api-doc-parser-0.13.2.tgz#cad9f6de86835b6b009a241e34febefb281dc00c"
+  integrity sha512-t1hEnshS82WZrkBY2LdvT8i9lCLz7rmRNHRaJQsWistxRgKH1KJaWjBPZDmhBTzPn7hcxps3l5I0tcwU95Juag==
   dependencies:
     graphql "^15.0.0"
-    jsonld "^3.2.0"
+    jsonld "^5.2.0"
     lodash.get "^4.4.2"
     tslib "^2.0.0"
 
@@ -6646,19 +6646,6 @@ jsonify@~0.0.0:
   resolved "https://registry.yarnpkg.com/jsonify/-/jsonify-0.0.0.tgz#2c74b6ee41d93ca51b7b5aaee8f503631d252a73"
   integrity sha1-LHS27kHZPKUbe1qu6PUDYx0lKnM=
 
-jsonld@^3.2.0:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/jsonld/-/jsonld-3.3.2.tgz#f8688b349385ff5c755e83c7f60a9cf834078fc0"
-  integrity sha512-DXqG/fdiG7eJ8FzvSd58bW8DQsulQR/gjLYUz9PxBP/WTTpB2HzjjdxSAx5aBHewJ0RiFAV/QcqGCJjxHvuIzw==
-  dependencies:
-    canonicalize "^1.0.1"
-    lru-cache "^5.1.1"
-    object.fromentries "^2.0.2"
-    rdf-canonize "^2.0.1"
-    request "^2.88.0"
-    semver "^6.3.0"
-    xmldom "0.1.19"
-
 jsonld@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/jsonld/-/jsonld-5.2.0.tgz#d1e8af38a334cb95edf0f2ae4e2b58baf8d2b5a9"
@@ -9092,14 +9079,6 @@ raw-body@2.4.0:
     http-errors "1.7.2"
     iconv-lite "0.4.24"
     unpipe "1.0.0"
-
-rdf-canonize@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/rdf-canonize/-/rdf-canonize-2.0.1.tgz#12c9b8b41570cd669d9b152c9e679063478ba194"
-  integrity sha512-/GVELjrfW8G/wS4QfDZ5Kq68cS1belVNJqZlcwiErerexeBUsgOINCROnP7UumWIBNdeCwTVLE9NVXMnRYK0lA==
-  dependencies:
-    semver "^6.3.0"
-    setimmediate "^1.0.5"
 
 rdf-canonize@^3.0.0:
   version "3.0.0"
@@ -11581,11 +11560,6 @@ xmlchars@^2.1.1:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/xmlchars/-/xmlchars-2.2.0.tgz#060fe1bcb7f9c76fe2a17db86a9bc3ab894210cb"
   integrity sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==
-
-xmldom@0.1.19:
-  version "0.1.19"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.19.tgz#631fc07776efd84118bf25171b37ed4d075a0abc"
-  integrity sha1-Yx/Ad3bv2EEYvyUXGzftTQdaCrw=
 
 xregexp@^4.3.0:
   version "4.3.0"
