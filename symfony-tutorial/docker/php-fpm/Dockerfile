@@ -1,4 +1,4 @@
-FROM php:8.1.0-fpm-alpine3.14
+FROM php:fpm-alpine3.14
 COPY wait-for-it.sh /usr/bin/wait-for-it
 RUN chmod +x /usr/bin/wait-for-it
 RUN apk --update --no-cache add git
