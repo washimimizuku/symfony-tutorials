@@ -13,6 +13,12 @@
     "node-sass": "^7.0.1",
     "preact": "^10.6.5",
     "preact-router": "^3.2.1",
-    "sass-loader": "^8.0"
-  }
+    "sass-loader": "^8.0",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
