@@ -32,3 +32,5 @@ patch:
         patched: '2022-03-28T20:54:58.860Z'
     - '@symfony/webpack-encore > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
         patched: '2022-03-29T21:29:51.486Z'
+    - '@symfony/webpack-encore > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2022-03-30T20:40:44.121Z'
