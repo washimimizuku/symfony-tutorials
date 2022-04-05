@@ -42,3 +42,5 @@ patch:
         patched: '2022-04-02T20:21:50.610Z'
     - '@symfony/webpack-encore > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
         patched: '2022-04-03T20:29:48.760Z'
+    - '@symfony/webpack-encore > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2022-04-04T21:01:12.334Z'
