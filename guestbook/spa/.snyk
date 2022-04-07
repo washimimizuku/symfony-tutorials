@@ -48,3 +48,5 @@ patch:
         patched: '2022-04-06T00:03:41.294Z'
     - '@symfony/webpack-encore > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/generator > @babel/types > lodash':
         patched: '2022-04-06T22:04:43.974Z'
+    - '@symfony/webpack-encore > @babel/preset-env > @babel/preset-modules > @babel/plugin-transform-dotall-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2022-04-07T20:30:33.472Z'
