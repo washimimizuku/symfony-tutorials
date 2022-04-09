@@ -52,3 +52,5 @@ patch:
         patched: '2022-04-07T20:30:33.472Z'
     - '@symfony/webpack-encore > @babel/preset-env > @babel/preset-modules > @babel/plugin-transform-dotall-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-annotate-as-pure > @babel/types > lodash':
         patched: '2022-04-08T20:27:00.918Z'
+    - '@symfony/webpack-encore > @babel/preset-env > @babel/preset-modules > @babel/plugin-proposal-unicode-property-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2022-04-09T20:17:36.824Z'
