@@ -4,14 +4,14 @@
   "private": true,
   "dependencies": {
     "@api-platform/admin": "^2.8.0",
-    "@babel/runtime": "^7.17.7",
+    "@babel/runtime": "^7.17.9",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.4",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.895.0"
   },
   "scripts": {
     "start": "react-scripts start",
