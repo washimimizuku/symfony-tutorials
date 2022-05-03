@@ -6,3 +6,5 @@ patch:
   SNYK-JS-LODASH-567746:
     - react-scripts > jest-environment-jsdom-fourteen > jsdom > request-promise-native > request-promise-core > lodash:
         patched: '2022-03-27T20:51:33.338Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-define-map > lodash:
+        patched: '2022-05-03T17:54:51.326Z'
