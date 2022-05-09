@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@api-platform/admin@^2.8.0":
-  version "2.8.3"
-  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-2.8.3.tgz#80ef389f18dff8c1e01ad950d802fa2ced72183f"
-  integrity sha512-5z8Y3AeqfqfRMqRBUa1MZTrBWvc8pj1vt/7QO54HHIFODk0ImWyVtgiKLvWuT0WR8K9lgXVD27Pw4m5IkHD/vA==
+"@api-platform/admin@^2.8.4":
+  version "2.8.4"
+  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-2.8.4.tgz#4a93aabe758ff8d292f77419f1a79cc9c05c757a"
+  integrity sha512-f+8f4CqsNOOqWmAo767Q63+SNPi98E4zpnKRYMecRLC6SFH59ZdJJ5uwu/wMtHt7CT42QeZ6SRLk0K+2WpP/Vw==
   dependencies:
-    "@api-platform/api-doc-parser" "^0.13.2"
+    "@api-platform/api-doc-parser" "^0.13.3"
     history "^4.7.0"
     jsonld "^5.2.0"
     lodash.isplainobject "^4.0.6"
     prop-types "^15.6.2"
     react-admin "^3.0.0"
 
-"@api-platform/api-doc-parser@^0.13.2":
-  version "0.13.2"
-  resolved "https://registry.yarnpkg.com/@api-platform/api-doc-parser/-/api-doc-parser-0.13.2.tgz#cad9f6de86835b6b009a241e34febefb281dc00c"
-  integrity sha512-t1hEnshS82WZrkBY2LdvT8i9lCLz7rmRNHRaJQsWistxRgKH1KJaWjBPZDmhBTzPn7hcxps3l5I0tcwU95Juag==
+"@api-platform/api-doc-parser@^0.13.3":
+  version "0.13.3"
+  resolved "https://registry.yarnpkg.com/@api-platform/api-doc-parser/-/api-doc-parser-0.13.3.tgz#c8dc7aa8d136a2d3ae77997aed7daf8ad35ba0cc"
+  integrity sha512-ghm4qfRGX+rKHCzK/KvEKTkkvzX492MrGxD3VvSAbA1g/Lhi0/h/aYSYaXtiuopewCx77NuU7zTrpsgSvF1lWA==
   dependencies:
     graphql "^15.0.0"
     jsonld "^5.2.0"
