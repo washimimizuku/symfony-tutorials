@@ -66,3 +66,5 @@ patch:
         patched: '2022-05-02T22:06:27.828Z'
     - '@symfony/webpack-encore > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash':
         patched: '2022-05-09T21:43:05.373Z'
+    - '@symfony/webpack-encore > @babel/core > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/template > @babel/types > lodash':
+        patched: '2022-05-11T21:45:50.819Z'
