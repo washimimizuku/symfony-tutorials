@@ -1400,10 +1400,10 @@
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
-"@snyk/protect@1.908.0":
-  version "1.908.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.908.0.tgz#ddfaca59db5675d4b01b35e3e127db56399e8a2a"
-  integrity sha512-dmaiims0zw2v8xwCDH8f4TprIof8Y5B02dH9/s8RGxfmuVAuT940ty7sIz0FElFkm5HmaXy0Q4mNxulhpkkcwg==
+"@snyk/protect@^1.928.0":
+  version "1.928.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.928.0.tgz#32fc63ecafee19b0c28de8a08a17e7837fa87cad"
+  integrity sha512-NDiZnVl7b8V7NnVchB0+GTcxrZngb3GcVb/bsq2orbOdsgZmTSaoqCJF2CrMwCVBTDYiW5aNkADSGf6RTmvFTw==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -9538,12 +9538,6 @@ renderkid@^2.0.1:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.3.tgz#380179c2ff5ae1365c522bf2fcfcff01c5b74149"
   integrity sha512-z8CLQp7EZBPCwCnncgf9C4XAi3WR0dv+uWu/PjIyhhAb5d6IJ/QZqlHFprHeKT+59//V6BNUsLbvN8+2LarxGA==
-  dependencies:
-    css-select "^1.1.0"
-    dom-converter "^0.2"
-    htmlparser2 "^3.3.0"
-    strip-ansi "^3.0.0"
-    utila "^0.4.0"
 
 repeat-element@^1.1.2:
   version "1.1.3"
