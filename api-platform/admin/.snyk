@@ -12,3 +12,5 @@ patch:
         patched: '2022-05-09T17:56:26.321Z'
     - react-scripts > webpack-dev-server > portfinder > async > lodash:
         patched: '2022-05-10T18:07:19.629Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-05-12T18:40:24.927Z'
