@@ -1652,7 +1652,7 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@snyk/protect@latest":
+"@snyk/protect@^1.931.0":
   version "1.931.0"
   resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.931.0.tgz#39d57f459e9f36573261c32c196051da5f5ba679"
   integrity sha512-FNgtMWsAbQGpmAw8UX+HOfLcGupXEGDDKWYMQRlgZYy+DIPHb4WUYw6unt1bJCupMC/FS2rXVqqRgCMhoVgcfA==
