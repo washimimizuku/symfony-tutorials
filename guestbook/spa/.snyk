@@ -72,3 +72,5 @@ patch:
         patched: '2022-05-13T21:25:52.999Z'
     - '@babel/preset-env > @babel/preset-modules > @babel/plugin-transform-dotall-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-annotate-as-pure > @babel/types > lodash':
         patched: '2022-05-19T21:42:59.762Z'
+    - '@babel/preset-env > @babel/preset-modules > @babel/plugin-proposal-unicode-property-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2022-05-21T21:25:37.062Z'
