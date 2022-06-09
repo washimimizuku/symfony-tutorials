@@ -995,10 +995,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.17.9":
-  version "7.17.9"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.9.tgz#d19fbf802d01a8cb6cf053a64e472d42c434ba72"
-  integrity sha512-lSiBBvodq29uShpWGNbgFdKYNiFDo5/HIYsaCEY9ff4sb10x9jizo2+pRrSyF4jKZCXqgzuqBOQKbUm90gQwJg==
+"@babel/runtime@^7.18.0":
+  version "7.18.3"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.18.3.tgz#c7b654b57f6f63cf7f8b418ac9ca04408c4579f4"
+  integrity sha512-38Y8f7YUhce/K7RMwTp7m0uCumpv9hZkitCbBClqQIow1qSbCvGkcegKOXpEWCQLfWmevgRiWokZ1GkpfhbZug==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1400,10 +1400,10 @@
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
-"@snyk/protect@^1.935.0":
-  version "1.935.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.935.0.tgz#cbb4403429ca73a0f5d46508007ad89d32b62097"
-  integrity sha512-dgHj6qIoq7iSeUOyCKv1XyOJjbmiQV/aJggORKN3eG76kuiQFE1UuL2zyK00kiS9aPA0ZxRXSekWuJEp5FC1SQ==
+"@snyk/protect@latest":
+  version "1.947.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.947.0.tgz#0ec719d820d923f78f9699c014dd2a4bae6090b3"
+  integrity sha512-F/8yrTbrxNfLbPNbNXuFrrMeaC3+uTzOqNQTnvgh8ctB/CVlkYJfDpZpEReb9VVl3KK5RDdgUDv/Bzz0pbansA==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
