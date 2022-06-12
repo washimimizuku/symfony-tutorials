@@ -20,3 +20,5 @@ patch:
         patched: '2022-05-20T17:51:44.436Z'
     - react-scripts > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
         patched: '2022-05-22T17:41:31.370Z'
+    - react-scripts > eslint > table > lodash:
+        patched: '2022-06-08T18:27:53.618Z'
