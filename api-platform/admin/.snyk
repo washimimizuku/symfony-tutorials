@@ -24,3 +24,5 @@ patch:
         patched: '2022-06-08T18:27:53.618Z'
     - react-scripts > eslint > inquirer > lodash:
         patched: '2022-06-13T18:31:58.376Z'
+    - react-scripts > eslint > inquirer > lodash:
+        patched: '2022-06-16T19:33:19.129Z'
