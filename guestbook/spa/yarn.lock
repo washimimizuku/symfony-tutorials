@@ -2031,10 +2031,10 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@snyk/protect@^1.951.0":
-  version "1.951.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.951.0.tgz#5a946c9bdaa386ec3c5bf52f6042213390a9327f"
-  integrity sha512-8qxNSyWAMlwouQEFo+UXgCjoU5QDlZN5mIAAgBrNRUptcoqEY6GwtZcH5hEzlKvFFDueVfJoLsPSMx+lpUKgiQ==
+"@snyk/protect@latest":
+  version "1.956.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.956.0.tgz#8f7565bb433bcaecdbecb49079f4b9abb2bdf4e5"
+  integrity sha512-jQN9IrOcvox20a9N692qdTpq3RmbZcpJCVteZEnAaTtoCG2V5SkjYdAxP0qk9iAhosEFNFSYbzLKjNSPYM6zWw==
 
 "@symfony/webpack-encore@^2.0.0":
   version "2.1.0"
@@ -5793,10 +5793,10 @@ preact-router@^3.2.1:
   resolved "https://registry.yarnpkg.com/preact-router/-/preact-router-3.2.1.tgz#c7d12d8fc7a60bfbe5cadf23a234551bec783468"
   integrity sha512-KEN2VN1DxUlTwzW5IFkF13YIA2OdQ2OvgJTkQREF+AA2NrHRLaGbB68EjS4IeZOa1shvQ1FvEm3bSLta4sXBhg==
 
-preact@^10.7.2:
-  version "10.7.2"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.7.2.tgz#5c632ba194b87345dcaee6598b3b6529b58e6a12"
-  integrity sha512-GLjn0I3r6ka+NvxJUppsVFqb4V0qDTEHT/QxHlidPuClGaxF/4AI2Qti4a0cv3XMh5n1+D3hLScW10LRIm5msQ==
+preact@^10.7.3:
+  version "10.8.2"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.8.2.tgz#b8a614f5cc8ab0cd9e63337a3d60dc80410f4ed4"
+  integrity sha512-AKGt0BsDSiAYzVS78jZ9qRwuorY2CoSZtf1iOC6gLb/3QyZt+fLT09aYJBjRc/BEcRc4j+j3ggERMdNE43i1LQ==
 
 pretty-error@^2.1.1:
   version "2.1.1"
