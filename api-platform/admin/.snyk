@@ -34,3 +34,5 @@ patch:
         patched: '2022-06-28T18:35:09.683Z'
     - react-scripts > @babel/core > @babel/traverse > lodash:
         patched: '2022-06-29T18:42:18.522Z'
+    - react-scripts > @babel/core > @babel/traverse > lodash:
+        patched: '2022-07-01T18:21:38.795Z'
