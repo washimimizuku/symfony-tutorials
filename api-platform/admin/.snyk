@@ -38,3 +38,5 @@ patch:
         patched: '2022-07-01T18:21:38.795Z'
     - react-scripts > @babel/core > @babel/generator > lodash:
         patched: '2022-07-02T18:06:21.408Z'
+    - react-scripts > @babel/core > @babel/generator > lodash:
+        patched: '2022-07-03T17:54:42.349Z'
