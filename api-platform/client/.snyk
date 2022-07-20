@@ -8,3 +8,5 @@ patch:
         patched: '2022-05-25T13:23:19.026Z'
     - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-define-map > lodash:
         patched: '2022-06-18T03:50:26.331Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-07-20T03:48:50.315Z'
