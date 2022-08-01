@@ -1244,10 +1244,10 @@
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
-"@snyk/protect@^1.976.0":
-  version "1.976.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.976.0.tgz#0f7f4ede7e01a0bb79aff705d0adb490d94d9879"
-  integrity sha512-43Hk32hp51ZHpSqDw3Fy5TcGLMZRGHKVFuQJwTVdJqCQsNZSXQj9n1Avn+dn5+xctVWw2er73aPmuFphpJTGFw==
+"@snyk/protect@latest":
+  version "1.981.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.981.0.tgz#fbe17c356281dcafcc7fb15637c6b03fb652fab0"
+  integrity sha512-6Kk9wFNyO6fzaDtbAs0iNrlq0TG2xpKRMazQ2bJaXF5ESV3eOX0DGzlYliALaqbOY/bRE3qaQitj6t1T9LgKUg==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -3039,10 +3039,10 @@ connect-history-api-fallback@^1.6.0:
   resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz#8b32089359308d111115d81cad3fceab888f97bc"
   integrity sha512-e54B99q/OUoH64zYYRf3HBP5z24G38h5D3qXu23JGRoigpX5Ss4r9ZnDk3g0Z8uQC2x2lPaJ+UlWBc1ZWBWdLg==
 
-connected-react-router@^6.9.2:
-  version "6.9.2"
-  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.9.2.tgz#f89fa87f0e977fcabf17475fb4552e170cc7e48e"
-  integrity sha512-bE8kNBiZv9Mivp7pYn9JvLH5ItTjLl45kk1/Vha0rmAK9I/ETb5JPJrAm0h2KCG9qLfv7vqU3Jo4UUDo0oJnQg==
+connected-react-router@^6.9.3:
+  version "6.9.3"
+  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.9.3.tgz#72300aca9f9d6f38e1f4a2901572faa02adec972"
+  integrity sha512-4ThxysOiv/R2Dc4Cke1eJwjKwH1Y51VDwlOrOfs1LjpdYOVvCNjNkZDayo7+sx42EeGJPQUNchWkjAIJdXGIOQ==
   dependencies:
     lodash.isequalwith "^4.4.0"
     prop-types "^15.7.2"
