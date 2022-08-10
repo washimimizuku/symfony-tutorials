@@ -1245,9 +1245,9 @@
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
 "@snyk/protect@latest":
-  version "1.981.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.981.0.tgz#fbe17c356281dcafcc7fb15637c6b03fb652fab0"
-  integrity sha512-6Kk9wFNyO6fzaDtbAs0iNrlq0TG2xpKRMazQ2bJaXF5ESV3eOX0DGzlYliALaqbOY/bRE3qaQitj6t1T9LgKUg==
+  version "1.984.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.984.0.tgz#9456223ece645ed94ea185b55111c64a42169d1f"
+  integrity sha512-R+XQotaoMVBBkAfzDQqO/hcUYlMHKjxXNjeMhlvSjnD4cR8IOrC+XTPyAO2l5v7L81wBMkKjCJ10YQwB6xYISg==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -2426,10 +2426,10 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
-bootstrap@^4.6.0:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.6.1.tgz#bc25380c2c14192374e8dec07cf01b2742d222a2"
-  integrity sha512-0dj+VgI9Ecom+rvvpNZ4MUZJz8dcX7WCX+eTID9+/8HgOkv3dsRzi8BGeZJCQU6flWQVYxwTQnEZFrmJSEO7og==
+bootstrap@^4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.6.2.tgz#8e0cd61611728a5bf65a3a2b8d6ff6c77d5d7479"
+  integrity sha512-51Bbp/Uxr9aTuy6ca/8FbFloBUJZLHwnhTcnjIeRn2suQWsWzcuJhGjKDB5eppVte/8oCdOL3VuwxvZDUggwGQ==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
