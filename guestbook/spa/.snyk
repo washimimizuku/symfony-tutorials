@@ -88,3 +88,5 @@ patch:
         patched: '2022-07-08T22:22:25.452Z'
     - '@symfony/webpack-encore > @babel/preset-env > @babel/preset-modules > @babel/types > lodash':
         patched: '2022-07-27T22:18:03.844Z'
+    - '@babel/preset-env > @babel/preset-modules > @babel/types > lodash':
+        patched: '2022-08-11T05:00:21.126Z'
