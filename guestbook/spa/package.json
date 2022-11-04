@@ -14,7 +14,7 @@
     "preact": "^10.11.1",
     "preact-router": "^3.2.1",
     "sass-loader": "^8.0",
-    "@snyk/protect": "1.1014.0"
+    "@snyk/protect": "1.1022.0"
   },
   "scripts": {
     "prepare": "yarn run snyk-protect",
