@@ -9,11 +9,11 @@
     "@symfony/webpack-encore": "^2.0.0",
     "babel-preset-preact": "^2.0.0",
     "bootstrap": "^4.6.2",
-    "html-webpack-plugin": "^4.5.2",
+    "html-webpack-plugin": "^5.0.0",
     "node-sass": "^7.0.3",
     "preact": "^10.11.1",
     "preact-router": "^3.2.1",
-    "sass-loader": "^8.0",
+    "sass-loader": "^9.0.0",
     "@snyk/protect": "1.1022.0"
   },
   "scripts": {
