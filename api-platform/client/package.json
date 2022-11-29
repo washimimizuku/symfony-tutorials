@@ -20,8 +20,8 @@
     "react-scripts": "^5.0.0",
     "redux": "^4.2.0",
     "redux-form": "^8.3.8",
-    "redux-thunk": "^2.4.1",
-    "@snyk/protect": "latest"
+    "redux-thunk": "^2.4.2",
+    "@snyk/protect": "1.1046.0"
   },
   "scripts": {
     "start": "react-scripts start",

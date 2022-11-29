@@ -1881,10 +1881,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@snyk/protect@latest":
-  version "1.1032.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1032.0.tgz#71b87c99d172844833345293812e051f20e6af90"
-  integrity sha512-C6EvuhDycvmyMCmhjC/KAV1z3aykVGKrYhGRI5u5Buzz27HgjHhB4DSC3MDpyljpahtAkCS/E7pAwo9zP3m4bA==
+"@snyk/protect@1.1046.0":
+  version "1.1046.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1046.0.tgz#82c8ff2e34c909e19ecf2503606d73690effe980"
+  integrity sha512-34JtsZmgq3iNNLS8b8BlFjyN7ScB4lO3qYKm098fueoeqGUGEkT/JAyBQk9e24Wx4g/qCOMT1BafZYWTRm22fw==
 
 "@surma/rollup-plugin-off-main-thread@^2.2.3":
   version "2.2.3"
@@ -8236,10 +8236,10 @@ redux-form@^8.3.8:
     prop-types "^15.6.1"
     react-is "^16.4.2"
 
-redux-thunk@^2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.4.1.tgz#0dd8042cf47868f4b29699941de03c9301a75714"
-  integrity sha512-OOYGNY5Jy2TWvTL1KgAlVy6dcx3siPJ1wTq741EPyUKfn6W6nChdICjZwCd0p8AZBs5kWpZlbkXW2nE/zjUa+Q==
+redux-thunk@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.4.2.tgz#b9d05d11994b99f7a91ea223e8b04cf0afa5ef3b"
+  integrity sha512-+P3TjtnP0k/FEjcBL5FZpoovtvrTNT/UXd4/sluaSyrURlSlhLSzEdfsTBW7WsKB6yPvgd7q/iZPICFjW4o57Q==
 
 redux@^4.0.0:
   version "4.1.2"
