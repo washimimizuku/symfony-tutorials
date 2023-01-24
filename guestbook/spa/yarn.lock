@@ -2548,10 +2548,10 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@snyk/protect@1.1074.0":
-  version "1.1074.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1074.0.tgz#05d7df887ddf55fe8227ce35a1046e83feefe5ca"
-  integrity sha512-h9z10JvffQmHADGOo0JbIM10lLnaRUshx71qyz4u2+/1Zwhh9a3WULRcF+m+wokuDShnhtm0re5nA9+rXSVZ4g==
+"@snyk/protect@1.1080.0":
+  version "1.1080.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1080.0.tgz#cb06d885b08901ba798894fa238a0598e4ccc602"
+  integrity sha512-HMZeUcZfsXNZjtMSUTIHx3qyTlgmV9OOLiFdwk+DyJOjoUJ+mnrLnYCrDi2gcT3V+1B3bvRsIra/defkSHqMWQ==
 
 "@symfony/webpack-encore@^2.0.0":
   version "2.1.0"
