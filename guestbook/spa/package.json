@@ -5,13 +5,13 @@
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.0",
+    "@babel/preset-env": "^7.22.6",
     "@symfony/webpack-encore": "^2.0.0",
     "babel-preset-preact": "^2.0.0",
     "bootstrap": "^4.6.2",
     "html-webpack-plugin": "^5.5.3",
     "node-sass": "^7.0.3",
-    "preact": "^10.14.0",
+    "preact": "^10.16.0",
     "preact-router": "^3.2.1",
     "sass-loader": "^9.0.0",
     "@snyk/protect": "1.1155.0"
