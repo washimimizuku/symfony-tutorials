@@ -289,6 +289,17 @@
     browserslist "^4.20.2"
     semver "^6.3.0"
 
+"@babel/helper-compilation-targets@^7.22.15":
+  version "7.22.15"
+  resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.22.15.tgz#0698fc44551a26cf29f18d4662d5bf545a6cfc52"
+  integrity sha512-y6EEzULok0Qvz8yyLkCvVX+02ic+By2UdOhylwUOvOn9dvYc9mKICJuuU1n1XBI02YWsNsnrY1kc6DVbjcXbtw==
+  dependencies:
+    "@babel/compat-data" "^7.22.9"
+    "@babel/helper-validator-option" "^7.22.15"
+    browserslist "^4.21.9"
+    lru-cache "^5.1.1"
+    semver "^6.3.1"
+
 "@babel/helper-compilation-targets@^7.22.5", "@babel/helper-compilation-targets@^7.22.6":
   version "7.22.6"
   resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.22.6.tgz#e30d61abe9480aa5a83232eb31c111be922d2e52"
@@ -2562,10 +2573,10 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@snyk/protect@1.1155.0":
-  version "1.1155.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1155.0.tgz#f650b1b98bc221e939592b1bb870795cae94396b"
-  integrity sha512-gj8pMJZZ5owicijaQSni/D+Wtjyuv3CEXRhC2M7tw+E6zLncm+6pn/apa+P7VFSv7nX20i7t5Ti5WvqEgTQ/Bw==
+"@snyk/protect@1.1227.0":
+  version "1.1227.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1227.0.tgz#04450d248b5a90829d93326e52c07f0b6d63272a"
+  integrity sha512-kW7jkwGckHXWptCeKjKEgKfECcS5b33ySeQ+OG4RNcn7CBHqLxy8tMiwH5hfqfuPxvaPtO9/IJ5H1uklrQs/zQ==
 
 "@symfony/webpack-encore@^2.0.0":
   version "2.1.0"
