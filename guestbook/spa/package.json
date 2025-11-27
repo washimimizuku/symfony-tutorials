@@ -8,10 +8,10 @@
     "@babel/preset-env": "^7.23.3",
     "@symfony/webpack-encore": "^4.5.0",
     "babel-preset-preact": "^2.0.0",
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^5.0.0",
     "html-webpack-plugin": "^5.5.3",
-    "node-sass": "^7.0.3",
-    "preact": "^10.17.1",
+    "node-sass": "^9.0.0",
+    "preact": "^10.18.2",
     "preact-router": "^3.2.1",
     "sass-loader": "^11.0.0",
     "@snyk/protect": "1.1227.0"
