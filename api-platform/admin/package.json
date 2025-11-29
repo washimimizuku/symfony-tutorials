@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@api-platform/admin": "^4.0.0",
-    "@babel/runtime": "^7.26.10",
+    "@babel/runtime": "^7.28.4",
     "@testing-library/jest-dom": "^6.4.3",
     "@testing-library/react": "^16.0.0",
     "@testing-library/user-event": "^7.1.2",
