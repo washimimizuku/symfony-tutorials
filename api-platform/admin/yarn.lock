@@ -15,10 +15,10 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@api-platform/admin@^4.0.0":
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-4.0.6.tgz#f7253158cc9b13594c5fb961f03cc578caf3dc12"
-  integrity sha512-zUxAZ9X1GXSuox3XCjfhnU8VcrO4wNcpumMtVs67idORSrIXIlWpUyeaMty9e7xRUehE00JA8Pz6x2H0t7l+og==
+"@api-platform/admin@^4.0.7":
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/@api-platform/admin/-/admin-4.0.7.tgz#8e4872d5301abf724af1c085cd8db60f330eceff"
+  integrity sha512-fs9VKKwkmrUOeyZr8h1tcYQUqv53t1zYhfeOkZjOKMK6tOyaKrq3YX+WXASDUdkfR9i6Iwso9TdoAyN2L133qw==
   dependencies:
     "@api-platform/api-doc-parser" "^0.16.8"
     jsonld "^8.3.2"
@@ -1313,11 +1313,6 @@
   version "7.27.1"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
   integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
-
-"@babel/runtime@^7.28.4":
-  version "7.28.4"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.28.4.tgz#a70226016fabe25c5783b2f22d3e1c9bc5ca3326"
-  integrity sha512-Q/N6JNWvIvPnLDvjlE1OUBLPQHH6l3CltCEsHIujp45zQUSSh8K+gHnaEX45yAT1nyngnINhvWtzN+Nb9D8RAQ==
 
 "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
   version "7.9.2"
